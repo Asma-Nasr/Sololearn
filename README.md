@@ -1,1 +1,1 @@
-# Sololearn
+# Sololearn Python Core
